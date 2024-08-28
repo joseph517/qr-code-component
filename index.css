@@ -1,14 +1,17 @@
-.body{
-    background-color: #D5E1EF;
-    font-family: 'Outfit', sans-serif;
-    font-size: 15px;
-    font-weight: 400; /* o 700 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 .container{
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-color: #D5E1EF;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    font-weight: 400; /* o 700 */
 }
 
 .card{
