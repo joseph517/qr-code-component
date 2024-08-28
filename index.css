@@ -56,3 +56,14 @@ p{
     margin: 0;
     width: 256px;
 }
+
+@media screen and (max-width: 375px) {
+
+    .card{
+        border-radius: 20px;
+    }
+    .img{
+        border-radius: 10px;
+    }
+    
+}
