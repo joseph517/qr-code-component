@@ -38,11 +38,9 @@
 h1{
     font-weight: bold;
     font-size: 22px;
-    line-height: 28px;
     color: #1F314F;
     margin: 0;
     margin-bottom: 16px;
-    font-family: 'Rag123', cursive;
     letter-spacing: 0px;
     line-height: 120%;
 }
@@ -50,7 +48,6 @@ h1{
 p{
     font-weight: 400;
     font-size: 15px;
-    line-height: 25px;
     color: #7D889E;
     margin: 0;
     width: 256px;
